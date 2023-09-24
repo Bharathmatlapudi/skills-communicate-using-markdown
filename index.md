@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Go to gym
+- [ ] Study
+- [ ] Play guitar
